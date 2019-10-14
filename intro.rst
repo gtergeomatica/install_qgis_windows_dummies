@@ -34,16 +34,21 @@ La maniera più semplice per installare l'ultima versione di QGIS è selezionare
 .. image:: img/01.PNG
 
 Selezionare un server fra quelli disponibili (con questa funzione la velocità potrebbe essere variabile). 
+
 .. image:: img/02.PNG
 
 Selezionare i pacchetti base (QGIS, GDAL e GRASS GIS)
+
 .. image:: img/03.PNG
 
 Accettare che L'OsGeo Network Installer selezioni alcune dipendenze
+
 .. image:: img/04.PNG
 
 Accettare le licenze aggiuntive di alcune dipendenze (es. ERDAS License per il supporto ECW)
+
 .. image:: img/05.PNG
+
 
 
 .. image:: img/06.PNG
