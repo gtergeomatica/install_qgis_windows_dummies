@@ -50,6 +50,8 @@ Accettare le licenze aggiuntive di alcune dipendenze (es. ERDAS License per il s
 .. image:: img/05.PNG
 
 
+A questo punto occorre attendere che si scarichino i pacchetti e successivamente si installi il Software. L'attesa minima è di 
+alcuni minuti anche se ovviamente dipende sia dalla velocità di rete che del PC
 
 .. image:: img/06.PNG
 
@@ -67,26 +69,26 @@ Installazione della versione stabile (LTR)
 
 A questo punto riuaprire l' OsGeo Network Installer e selezionare l'opzione *Advanced Install* 
 
-.. image:: img/a01.PNG
+.. image:: img/a_01.PNG
 
 
-.. image:: img/a02.PNG
+.. image:: img/a_02.PNG
 
 
-.. image:: img/a03.PNG
+.. image:: img/a_03.PNG
 
 
 
-.. image:: img/a04.PNG
+.. image:: img/a_04.PNG
 
 
-.. image:: img/a05.PNG
+.. image:: img/a_05.PNG
 
 
-.. image:: img/a06.PNG
+.. image:: img/a_06.PNG
 
 
-.. image:: img/a07.PNG
+.. image:: img/a_07.PNG
 
 
 
