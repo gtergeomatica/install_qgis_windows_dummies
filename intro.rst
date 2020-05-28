@@ -67,7 +67,7 @@ A titolo di esempio si potrebbe salvare sulla cartella OsGeo che di default vien
 Installazione della versione stabile (LTR)
 **************************************************************
 
-A questo punto riuaprire l' OsGeo Network Installer e selezionare l'opzione *Advanced Install* 
+A questo punto riaprire l' OsGeo Network Installer e selezionare l'opzione *Advanced Install* 
 
 .. image:: img/a_01.PNG
 
