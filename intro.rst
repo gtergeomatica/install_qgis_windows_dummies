@@ -71,7 +71,7 @@ A titolo di esempio si potrebbe salvare sulla cartella OsGeo che di default vien
 Installazione della versione stabile (LTR)
 **************************************************************
 
-A questo punto riuaprire l' OsGeo Network Installer e selezionare l'opzione *Advanced Install* 
+A questo punto riaprire l' OsGeo Network Installer e selezionare l'opzione *Advanced Install* 
 
 .. image:: img/a_01.PNG
 
@@ -104,6 +104,7 @@ Accettare nuovamente e attendere qualche minuto. In questo caso siccome molte di
 
 A questo punto avete installato sul vostro PC Windows sia l'ultima versione di QGIS che l'ultima stabile e potrete scegliere in ogni momento quale utilizzare
 
+**L'utilizzo dell'OsGeo Installer è molto comodo per gestire i successivi aggiornamenti. E' infatti sufficiente riaprire l'installer e verificare gli aggiornamenti disponibili e accettarli.** 
 
 
 
