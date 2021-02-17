@@ -33,7 +33,11 @@ La maniera più semplice per installare l'ultima versione di QGIS è selezionare
 
 .. image:: img/01.PNG
 
-Selezionare un server fra quelli disponibili (con questa funzione la velocità potrebbe essere variabile). 
+**Per chi non fosse amministrtore** selezionare l'installazione sul proprio utente:
+
+.. image:: img/01_admin.PNG
+
+Nelle sezioni successive selezionare un server fra quelli disponibili (con questa funzione la velocità in download potrebbe essere variabile). 
 
 .. image:: img/02.PNG
 
