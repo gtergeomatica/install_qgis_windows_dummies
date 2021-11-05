@@ -3,7 +3,7 @@ Introduzione
 
 Installazione di QGIS per Windows
 ------------------------------------------
-QGIS è un software free ed open source cross-platform https://qgis.org/. 
+QGIS è un software free ed Open Source cross-platform https://qgis.org/. 
 
 Su S.O. Windows presenta due diverse modalità di installazione:
 
